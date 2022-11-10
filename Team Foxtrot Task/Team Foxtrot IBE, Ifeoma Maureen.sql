@@ -1,0 +1,1 @@
+SELECT AVG(totalSnatched) FROM torrents
