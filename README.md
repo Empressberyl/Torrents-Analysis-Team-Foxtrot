@@ -16,7 +16,7 @@ Team name
 Link to a GitHub repo that contains:
 Link to clickup workspace, link to documentation folder, link to Project( figma, github repo, slides etc, SQL file, README.md)
 
-
+# Work Breakout
 Names| Roles | Responsibilities
 -----|-------|-----------------
 TAOFEEQAH  IFELADE BAKARE/ ABIGAIL O. AJAYI | Who are the top five most common artistes |
