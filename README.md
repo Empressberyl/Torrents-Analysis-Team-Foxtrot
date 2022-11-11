@@ -19,7 +19,7 @@ Link to clickup workspace, link to documentation folder, link to Project( figma,
 # Work Breakout
 Names| Roles | Responsibilities
 -----|-------|-----------------
-TAOFEEQAH  IFELADE BAKARE/ ABIGAIL O. AJAYI | Who are the top five most common artistes |
+TAOFEEQAH  IFELADE BAKARE | Who are the top five most common artistes |
 IBE, IFEOMA MAUREEN | Team member | Sign up on Kaggle/Download SQLite DB file/Sign up on clickup/Download DB browser for SQLite/Run the query to answer question 4/Commit the SQL file to our GitHub repository/Complete task on clickup/ Collaborate with team members on the best way to present our demo.
 ONAH ANTHONIA OBIAGELI | What is the most popular release type| Download the SQlite DB Browser/Sign up on Kaggle/Download the Database file/ Run the query to answer question no. 2./Commit the SQL file to our GITHUB repo/Complete the task on Clickup.
 JOY NKIRU UZOHO | For the last three years, what release type has the most torrents | Download the dataset from kaggle/Sign up on clickup/Download DB browser for SQLite/Run the query to answer question 2/Commit the SQL file to our GitHub repository/Complete task on clickup/Collaborate with team members on slide presentations for the demo.
